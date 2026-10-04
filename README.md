@@ -50,8 +50,8 @@ The SMOTE-based model achieved higher test performance, while the pruned model p
 
 ## Team
 
-* Reham Mobark— [GitHub] 
-* Alya Almatroodi— [GitHub]
+* Reham Mobark
+* Alya Almatroodi— [GitHub](https://github.com/AlyaIbraheem)
 * Nadeen Alameer
 * Aljori Aladaili
 
