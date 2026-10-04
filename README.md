@@ -2,7 +2,7 @@
 
 A machine learning project for classifying emails as **Spam** or **Not Spam** using Decision Tree Classifiers and the **Spambase** dataset.
 
-The project explores feature normalization, overfitting control, and class balancing techniques, including **SMOTE**.
+The project explores feature normalization, overfitting control, and class balancing techniques.
 
 ## Dataset
 
@@ -46,7 +46,6 @@ The SMOTE-based model achieved higher test performance, while the pruned model p
 * Scikit-learn
 * Imbalanced-learn
 * Matplotlib
-* Jupyter Notebook
 
 ## Team
 
